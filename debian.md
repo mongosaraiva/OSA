@@ -18,6 +18,7 @@ Exception are:
 | Database | PostgreSQL | Relational database shared by the business apps |
 | Configuration Management | Ansible | Infrastructure automation and configuration management |
 | Source Control & CI/CD | GitLab | Git repositories, CI/CD pipelines and container registry |
+| Secrets Management & PKI | OpenBao | Stores and controls access to secrets, credentials and encryption keys; internal certificate authority |
 | Monitoring & Observability | Zabbix / Prometheus / Grafana | Infrastructure monitoring, metrics and dashboards |
 | Security Monitoring (SIEM / XDR) | Wazuh | Threat detection, log analysis, file integrity monitoring, vulnerability detection and compliance |
 | Identity & Authentication | Samba AD DC + Keycloak | Central directory (LDAP/Kerberos/DNS, AD-compatible) with SSO, OIDC/SAML and MFA |
