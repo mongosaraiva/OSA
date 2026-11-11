@@ -9,7 +9,7 @@
 |Firewall & Routing                           |OPNsense                         |
 |Network Switching                            |NVIDIA Cumulus Linux             | 
 |Backup & Disaster Recovery                   |Proxmox BS                       |
-|Central Virtualization mgmt                  |Proxmox DM                       |
+|Central Virtualization Management            |Proxmox DM                       |
 |Operating System                             |Debian GNU/Linux                 |
 |Identity & Authentication                    |FreeIPA                          |
 |Monitoring & Observability                   |Zabbix / Prometheus / Grafana    |
