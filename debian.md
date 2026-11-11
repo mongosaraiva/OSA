@@ -1,9 +1,8 @@
 
 # Open-Source Infrastructure Stack
 
-This is a fully open-source infrastructure stack for a self-hosted private data center.The stack is built around Debian GNU/Linux. Most of the platform products are Debian-based.
-Exception are:
-- OPNsense runs on FreeBSD (HardenedBSD)
+This infrastructure stack is designed for a self-hosted private data center and is built on open-source software. It is centered on Debian GNU/Linux, and most of its platform components are Debian-based. The exception are;
+- OPNsense, runs on FreeBSD.
   
 
 | Infrastructure Layer | Proposed Solution | Primary Function |
