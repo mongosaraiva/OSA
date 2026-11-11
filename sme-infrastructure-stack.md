@@ -14,7 +14,7 @@ This infrastructure stack is designed for a self-hosted private data center and 
 | Backup & Disaster Recovery | Proxmox Backup Server (PBS) | Backup, deduplication and recovery |
 | Central Virtualization Management | Proxmox Datacenter Manager (PDM) | Manages several Proxmox environments from one place |
 | Server Operating System | Debian GNU/Linux | Open-source operating system for servers and workstations |
-| Database | PostgreSQL | Relational database shared by the business apps |
+| Database | PostgreSQL / MariaDB | Relational database shared by the business apps |
 | Configuration Management | Ansible | Infrastructure automation and configuration management |
 | Source Control & CI/CD | GitLab | Git repositories, CI/CD pipelines and container registry |
 | Secrets Management & PKI | OpenBao | Stores and controls access to secrets, credentials and encryption keys; internal certificate authority |
