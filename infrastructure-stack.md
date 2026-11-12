@@ -21,6 +21,7 @@ This infrastructure stack is designed for a self-hosted private data center and 
 | Monitoring & Observability | Zabbix / Prometheus / Grafana | Infrastructure monitoring, metrics and dashboards |
 | Security Monitoring (SIEM / XDR) | Wazuh | Threat detection, log analysis, file integrity monitoring, vulnerability detection and compliance |
 | Identity & Authentication | Samba AD DC + Keycloak | Central directory (LDAP/Kerberos/DNS, AD-compatible) with SSO, OIDC/SAML and MFA |
+| IT Service Management & Asset Management (ITSM / ITAM) | GLPI | Helpdesk and ticketing, IT asset inventory (CMDB), change and incident management |
 | Collaboration & File Sharing | Nextcloud | File sync and sharing, calendar, contacts and office documents |
 | ERP & Business Applications | Odoo | ERP, CRM, accounting, inventory and HR |
 | Telephony / VoIP | FreePBX | IP phone system (Asterisk-based) |
