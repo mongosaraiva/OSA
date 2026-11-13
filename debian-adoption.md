@@ -21,3 +21,20 @@ As of November 2026, these are the projects worth looking at.
 - Kali Linux  (Switched to Debian in 2013, replacing Ubuntu-based BackTrack)
 - Pardus      (Switched to Debian in 2013)
 
+## 2. Companies using Debian
+
+Debian is not only used by hobbyists. Large companies and organizations run it in production, often in critical infrastructure, because of its stability, long security support, community governance and freedom from vendor lock-in.
+
+As of November 2026, these are some notable examples.
+
+- Google               (gLinux, the internal desktop OS for its engineers, based on Debian Testing)
+- Microsoft            (SONiC, the Debian-based network operating system that runs the Azure switching fabric)
+- Alibaba              (Runs SONiC on its cloud data center switches)
+- Wikimedia Foundation (All servers behind Wikipedia run Debian)
+- Raspberry Pi Ltd     (Raspberry Pi OS is based on Debian)
+- Proxmox              (Proxmox VE and Proxmox Backup Server are built on Debian)
+- iXsystems            (TrueNAS Community Edition, formerly SCALE, is built on Debian)
+- NVIDIA               (Cumulus Linux, its data center switch OS, is Debian-based)
+- Docker               (Most official Docker images use Debian as their default base)
+
+For a longer list of organizations that describe how and why they use Debian, see the official page: https://www.debian.org/users/
