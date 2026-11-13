@@ -38,3 +38,7 @@ As of November 2026, these are some notable examples.
 - Docker               (Most official Docker images use Debian as their default base)
 
 For a longer list of organizations that describe how and why they use Debian, see the official page: https://www.debian.org/users/
+
+
+Ref:
+https://developer.cisco.com/docs/sonic/sonic-architecture/#sonic-architecture
