@@ -40,5 +40,8 @@ As of November 2026, these are some notable examples.
 For a longer list of organizations that describe how and why they use Debian, see the official page: https://www.debian.org/users/
 
 
-Ref:
+## Ref:
+
+https://www.debian.org/users/
+https://www.itpro.com/software/30308/google-moves-internal-systems-from-ubuntu-to-debian
 https://developer.cisco.com/docs/sonic/sonic-architecture/#sonic-architecture
