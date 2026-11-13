@@ -19,5 +19,6 @@
 https://services.google.com/fh/files/misc/fleet_management_at_scale_white_paper.pdf
 
 **How Google got to rolling Linux releases for Desktops**
+
 https://cloud.google.com/blog/topics/developers-practitioners/how-google-got-to-rolling-linux-releases-for-desktops
 
