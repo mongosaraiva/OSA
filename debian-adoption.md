@@ -47,3 +47,5 @@ https://www.debian.org/users/
 https://www.itpro.com/software/30308/google-moves-internal-systems-from-ubuntu-to-debian
 
 https://developer.cisco.com/docs/sonic/sonic-architecture/#sonic-architecture
+
+https://en.wikipedia.org/wiki/GLinux
