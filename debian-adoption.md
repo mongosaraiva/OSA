@@ -43,5 +43,7 @@ For a longer list of organizations that describe how and why they use Debian, se
 ## Ref:
 
 https://www.debian.org/users/
+
 https://www.itpro.com/software/30308/google-moves-internal-systems-from-ubuntu-to-debian
+
 https://developer.cisco.com/docs/sonic/sonic-architecture/#sonic-architecture
