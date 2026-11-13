@@ -1,4 +1,4 @@
-# Open Source Adoption
+# FOSS For All (FOSS4All)
 
 A practical guide to replacing proprietary software with free and open-source (FOSS) alternatives, for both everyday users and organizations.
 
